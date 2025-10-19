@@ -24,3 +24,5 @@ ENV FLASK_RUN_PORT=5001
 
 # Command to run Flask app
 CMD ["flask", "run"]
+
+#added to github
